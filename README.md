@@ -1,15 +1,15 @@
-# Wiki-Colaborativa---LINUX <img width="400" height="112" alt="png-clipart-penguin-illustration-linux-logo-icons-logos-emojis-tech-companies" src="https://github.com/user-attachments/assets/78bc6255-238f-47f2-9ff1-377f5d93af74" />
+# Wiki-Colaborativa---LINUX 
+<img width="577" height="433" alt="linux-penguin4725 logowik com-removebg-preview" src="https://github.com/user-attachments/assets/d5bcb15f-ade6-4afc-9c0a-db15655a4b72" />
 
-
-## **Este é um mini-dicionário com 30 comandos do Linux, utilizando linguagem Markdown**\
+<div align="center">
+## **Este é um mini-dicionário com 30 comandos do Linux, utilizando linguagem Markdown**
 Com este dicionário, você irá conhecer alguns dos comandos mais usados para lidar com processos, gerenciamento de usuários e entender melhor o funcionamento do sistema. Se você já tem experiência ou está começando agora, aprender esses comandos irá fazer uma grande diferença. Eles ajudam a gerenciar servidores com mais eficiência, criar scripts e resolver problemas com mais facilidade.
-<p align="center">
 <img width="300" height="300" alt="pengu-pudgy" src="https://github.com/user-attachments/assets/5ca1c4d3-d0c7-49d4-94f1-968ac6709298" />
-</p>
+</div>
 
 ## **Navegação em arquivos e pastas**  
 | Comando | Função                                  |
-|--------:|-----------------------------------------|
+|:-------:|-----------------------------------------|
 | **ls**  | Lista o conteúdo de um diretório        |
 | **pwd** | Mostra o caminho do diretório atual     |
 | **cd**  | Troca de diretório                      |
@@ -18,7 +18,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 
 ## **Operações com arquivos e pastas**
 | Comando            | Função                                                     |
-|-------------------:|------------------------------------------------------------|
+|:------------------:|------------------------------------------------------------|
 | **mkdir**          |       Cria um diretório                                    |
 | **rmdir**          |       Remove um diretório                                  |
 | **rm**             |       Exclui um arquivo                                    |
@@ -31,13 +31,13 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 
 ## **Comandos de gerenciamento de usuários e permissões**
 | Comando             | Função                                      |
-|--------------------:|---------------------------------------------|
+|:-------------------:|---------------------------------------------|
 | **su**              |       Troca de usuário                      |
 | **useradd\userdel** |       Adiciona ou remove um usuário         |
 | **passwd**          |       Define uma nova senha para um usuário |
 
 <div align="center">
 <p>### Você chegou ao fim!</p>
-<img width="300" height="300" alt="squad-team" src="https://github.com/user-attachments/assets/a2a77fef-4ebd-42b8-8b5b-474dbc0f3512" />
+<img width="498" height="315" alt="club-penguin" src="https://github.com/user-attachments/assets/9ff0da37-d806-4f40-a38a-a32abe6ab9d7" />
 Este mini-dicionário foi criado com base no livro [Guia Foca Linux](https://guiafoca.org/)
 </div>
