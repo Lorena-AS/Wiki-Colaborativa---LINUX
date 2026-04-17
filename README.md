@@ -7,8 +7,8 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 </p>
 
 ## **Navegação em arquivos e pastas**  
-### **Comando       |       Função**  
-
+### |**Comando       |       Função|**  
+|-------------------|-----------------------------------------------------|
 **ls**              |       Lista o conteúdo de um diretório  
 
 **pwd**             |       Mostra o caminho do diretório atual  
