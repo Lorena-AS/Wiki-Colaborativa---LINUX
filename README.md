@@ -7,43 +7,33 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 </p>
 
 ## **Navegação em arquivos e pastas**  
-### |**Comando       |       Função|**  
-| ----------------- | --------------------------------------------------- |  
-
-**ls**              |       Lista o conteúdo de um diretório  
-
-**pwd**             |       Mostra o caminho do diretório atual  
-
-**cd**              |       Troca de diretório  
-
-**find**            |       Encontra um arquivo dentro do diretório atual
+| Comando | Função                                  |
+|--------:|-----------------------------------------|
+| **ls**  | Lista o conteúdo de um diretório        |
+| **pwd** | Mostra o caminho do diretório atual     |
+| **cd**  | Troca de diretório                      |
+| **find**| Encontra um arquivo no diretório atual  |
 
 
 ## **Operações com arquivos e pastas**
-### **Comando       |       Função**  
-
-**mkdir**          |       Cria um diretório  
-
-**rmdir**          |       Remove um diretório  
-
-**rm**             |       Exclui um arquivo  
-
-**cp**             |       Copia um arquivo para outro local  
-
-**mv**             |       Move ou renomeia um arquivo ou pasta  
-
-**zip e unzip**    |       Compacta ou extrai um arquivo ZIP  
-
-**cat**            |       Exibe o conteúdo de um arquivo  
-
-**cut**            |       Seleciona e imprime partes específicas de um arquivo
+| Comando            | Função                                                     |
+|-------------------:|------------------------------------------------------------|
+| **mkdir**          |       Cria um diretório                                    |
+| **rmdir**          |       Remove um diretório                                  |
+| **rm**             |       Exclui um arquivo                                    |
+| **cp**             |       Copia um arquivo para outro local                    |
+| **mv**             |       Move ou renomeia um arquivo ou pasta                 |
+| **zip e unzip**    |       Compacta ou extrai um arquivo ZIP                    |
+| **cat**            |       Exibe o conteúdo de um arquivo                       |
+| **cut**            |       Seleciona e imprime partes específicas de um arquivo |
 
 
 ## **Comandos de gerenciamento de usuários e permissões**
-### **Comando        |       Função**
-**su**              |       Troca de usuário
-**useradd\userdel** |       Adiciona ou remove um usuário  
-**passwd**          |       Define uma nova senha para um usuário  
+| Comando             | Função                                      |
+|--------------------:|---------------------------------------------|
+| **su**              |       Troca de usuário                      |
+| **useradd\userdel** |       Adiciona ou remove um usuário         |
+| **passwd**          |       Define uma nova senha para um usuário |
 
 
 ### Você chegou ao fim!
