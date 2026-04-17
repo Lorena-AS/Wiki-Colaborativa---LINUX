@@ -1,5 +1,6 @@
-<font color="blue">Wiki-Colaborativa---LINUX</font> 
-# Wiki-Colaborativa---LINUX\
+# Wiki-Colaborativa---LINUX <img width="400" height="112" alt="png-clipart-penguin-illustration-linux-logo-icons-logos-emojis-tech-companies" src="https://github.com/user-attachments/assets/78bc6255-238f-47f2-9ff1-377f5d93af74" />
+
+
 ## **Este é um mini-dicionário com 30 comandos do Linux, utilizando linguagem Markdown**\
 Com este dicionário, você irá conhecer alguns dos comandos mais usados para lidar com processos, gerenciamento de usuários e entender melhor o funcionamento do sistema. Se você já tem experiência ou está começando agora, aprender esses comandos irá fazer uma grande diferença. Eles ajudam a gerenciar servidores com mais eficiência, criar scripts e resolver problemas com mais facilidade.
 <p align="center">
@@ -35,9 +36,8 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **useradd\userdel** |       Adiciona ou remove um usuário         |
 | **passwd**          |       Define uma nova senha para um usuário |
 
-
-### Você chegou ao fim!
-<p align="center">
+<div align="center">
+<p>### Você chegou ao fim!</p>
 <img width="300" height="300" alt="squad-team" src="https://github.com/user-attachments/assets/a2a77fef-4ebd-42b8-8b5b-474dbc0f3512" />
-</p>
 Este mini-dicionário foi criado com base no livro [Guia Foca Linux](https://guiafoca.org/)
+</div>
