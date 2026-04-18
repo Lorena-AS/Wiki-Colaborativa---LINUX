@@ -42,9 +42,9 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **useradd\userdel** |       Adiciona ou remove um usuário         |
 | **passwd**          |       Define uma nova senha para um usuário |
 
-## **Comandos diversos** ##
+## **Comandos diversos**
 | Comando             | Função                                                   |
-|:-------------------:|:--------------------------------------------------------=|
+|:-------------------:|:---------------------------------------------------------|
 | **date**            |       Troca a hora e data do sistema                     |
 | **df**              |       Mostra espaço livre e ocupado nas partições        |
 | **free**            |       Mostra quanta memória ram esta sendo usada         |
