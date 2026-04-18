@@ -19,6 +19,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **find**| Encontra um arquivo no diretório atual  |
 
 
+
 ## **Operações com arquivos e pastas**
 | Comando            | Função                                                     |
 |:------------------:|:-----------------------------------------------------------|
@@ -38,6 +39,13 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **su**              |       Troca de usuário                      |
 | **useradd\userdel** |       Adiciona ou remove um usuário         |
 | **passwd**          |       Define uma nova senha para um usuário |
+
+## **Comandos diversos**
+| Comando             | Função                                                  |
+|:-------------------:|:--------------------------------------------------------|
+| **date**            |       Troca a hora e data do sistema                    |
+| **df**              |       Mostra espaço livre e usado nas partições         |
+| **In**              |       Cria um link para diretório ou arquivo            |
 
 </div>
 
