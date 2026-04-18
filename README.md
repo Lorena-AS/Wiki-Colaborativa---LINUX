@@ -9,11 +9,10 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 </div>
 <div align="center">
 <img width="100" height="100" alt="pengu-pudgy" src="https://github.com/user-attachments/assets/5ca1c4d3-d0c7-49d4-94f1-968ac6709298" />
-</div>
 
 ## **Navegação em arquivos e pastas**  
 | Comando | Função                                  |
-|:-------:|-----------------------------------------|
+|:-------:|:----------------------------------------|
 | **ls**  | Lista o conteúdo de um diretório        |
 | **pwd** | Mostra o caminho do diretório atual     |
 | **cd**  | Troca de diretório                      |
@@ -22,7 +21,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 
 ## **Operações com arquivos e pastas**
 | Comando            | Função                                                     |
-|:------------------:|------------------------------------------------------------|
+|:------------------:|:-----------------------------------------------------------|
 | **mkdir**          |       Cria um diretório                                    |
 | **rmdir**          |       Remove um diretório                                  |
 | **rm**             |       Exclui um arquivo                                    |
@@ -35,10 +34,12 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 
 ## **Comandos de gerenciamento de usuários e permissões**
 | Comando             | Função                                      |
-|:-------------------:|---------------------------------------------|
+|:-------------------:|:--------------------------------------------|
 | **su**              |       Troca de usuário                      |
 | **useradd\userdel** |       Adiciona ou remove um usuário         |
 | **passwd**          |       Define uma nova senha para um usuário |
+
+</div>
 
 <div align="center">
 
