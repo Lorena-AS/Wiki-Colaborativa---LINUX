@@ -31,7 +31,8 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **zip e unzip**    |       Compacta ou extrai um arquivo ZIP                    |
 | **cat**            |       Exibe o conteúdo de um arquivo                       |
 | **cut**            |       Seleciona e imprime partes específicas de um arquivo |
-
+| **du**             |       Mostra espaço ocupado por arquivos no diretório      |
+| **In**             |       Cria um link para diretório ou arquivo               |
 
 ## **Comandos de gerenciamento de usuários e permissões**
 | Comando             | Função                                      |
@@ -44,8 +45,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | Comando             | Função                                                  |
 |:-------------------:|:--------------------------------------------------------|
 | **date**            |       Troca a hora e data do sistema                    |
-| **df**              |       Mostra espaço livre e usado nas partições         |
-| **In**              |       Cria um link para diretório ou arquivo                 |
+| **df**              |       Mostra espaço livre e ocupado nas partições       |
 
 </div>
 
