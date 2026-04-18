@@ -1,7 +1,7 @@
-# Wiki-Colaborativa---LINUX 
-<img width="177" height="033" alt="linux-penguin4725 logowik com-removebg-preview" src="https://github.com/user-attachments/assets/d5bcb15f-ade6-4afc-9c0a-db15655a4b72" />
-
 <div align="center">
+
+# 🐧 Wiki-Colaborativa---LINUX 🐧
+  
 ## **Este é um mini-dicionário com 30 comandos do Linux, utilizando linguagem Markdown**
 
 Com este dicionário, você irá conhecer alguns dos comandos mais usados para lidar com processos, gerenciamento de usuários e entender melhor o funcionamento do sistema. Se você já tem experiência ou está começando agora, aprender esses comandos irá fazer uma grande diferença. Eles ajudam a gerenciar servidores com mais eficiência, criar scripts e resolver problemas com mais facilidade.
@@ -43,7 +43,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 <div align="center">
 <p>### Você chegou ao fim!</p>
   
-<img width="498" height="315" alt="club-penguin" src="https://github.com/user-attachments/assets/9ff0da37-d806-4f40-a38a-a32abe6ab9d7" />
+<img width="298" height="115" alt="club-penguin" src="https://github.com/user-attachments/assets/9ff0da37-d806-4f40-a38a-a32abe6ab9d7" />
 
-Este mini-dicionário foi criado com base no livro [Guia Foca Linux](https://guiafoca.org/)
+🤓 Este mini-dicionário foi criado com base no livro [Guia Foca Linux](https://guiafoca.org/)
 </div>
