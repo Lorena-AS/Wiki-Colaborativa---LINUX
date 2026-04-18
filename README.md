@@ -58,7 +58,6 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **reboot**          |       Reinicia o sistema                                 |
 | **shutdown**        |       Deslliga o sistema                                 |
 
-
 </div>
 
 <div align="center">
