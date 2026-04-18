@@ -33,6 +33,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **cut**            |       Seleciona e imprime partes específicas de um arquivo |
 | **du**             |       Mostra espaço ocupado por arquivos no diretório      |
 | **In**             |       Cria um link para diretório ou arquivo               |
+| **find**           |       Procura arquivos ou diretórios                       |
 
 ## **Comandos de gerenciamento de usuários e permissões**
 | Comando             | Função                                      |
@@ -42,10 +43,21 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **passwd**          |       Define uma nova senha para um usuário |
 
 ## **Comandos diversos**
-| Comando             | Função                                                  |
-|:-------------------:|:--------------------------------------------------------|
-| **date**            |       Troca a hora e data do sistema                    |
-| **df**              |       Mostra espaço livre e ocupado nas partições       |
+| Comando             | Função                                                   |
+|:-------------------:|:--------------------------------------------------------=|
+| **date**            |       Troca a hora e data do sistema                     |
+| **df**              |       Mostra espaço livre e ocupado nas partições        |
+| **free**            |       Mostra quanta memória ram esta sendo usada         |
+| **grep**            |       Procura um texto dentro de um arquivo              |
+| **head**            |       Mostra as linha iniciais de um texto               |
+| **nl**              |       Mostra o numero de linha e o conteudo do arquivo   |
+| **head**            |       Mostra as linha iniciais de um texto               |
+| **sort**            |       Organiza as linhas de um arquivo de texto          |
+| **time**            |       Mostra o tempo para concluir um processo           |
+| **uptime**          |       Mostra a quanto tempo o sistema esta ligado        |
+| **reboot**          |       Reinicia o sistema                                 |
+| **shutdown**        |       Deslliga o sistema                                 |
+
 
 </div>
 
