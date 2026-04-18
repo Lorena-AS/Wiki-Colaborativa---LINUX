@@ -8,7 +8,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 
 </div>
 <div align="center">
-<img width="300" height="300" alt="pengu-pudgy" src="https://github.com/user-attachments/assets/5ca1c4d3-d0c7-49d4-94f1-968ac6709298" />
+<img width="100" height="100" alt="pengu-pudgy" src="https://github.com/user-attachments/assets/5ca1c4d3-d0c7-49d4-94f1-968ac6709298" />
 </div>
 
 ## **Navegação em arquivos e pastas**  
@@ -41,9 +41,10 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **passwd**          |       Define uma nova senha para um usuário |
 
 <div align="center">
-<p>### Você chegou ao fim!</p>
+
+### Você chegou ao fim!</p>
   
-<img width="298" height="115" alt="club-penguin" src="https://github.com/user-attachments/assets/9ff0da37-d806-4f40-a38a-a32abe6ab9d7" />
+<img width="198" height="100" alt="club-penguin" src="https://github.com/user-attachments/assets/9ff0da37-d806-4f40-a38a-a32abe6ab9d7" />
 
 🤓 Este mini-dicionário foi criado com base no livro [Guia Foca Linux](https://guiafoca.org/)
 </div>
