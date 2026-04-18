@@ -45,7 +45,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 |:-------------------:|:--------------------------------------------------------|
 | **date**            |       Troca a hora e data do sistema                    |
 | **df**              |       Mostra espaço livre e usado nas partições         |
-| **In**              |       Cria um link para diretório ou arquivo            |
+| **In**              |       Cria um link para diretório ou arquivo                 |
 
 </div>
 
