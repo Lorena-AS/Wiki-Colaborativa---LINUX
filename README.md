@@ -57,7 +57,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **clear**           | Limpa a tela do terminal                           | Limpar a tela poluída ou por conta de um comando incorreto                      |
 
 ## **Conclusão**
-Dominar os comandos básicos do Linux é essencial para a utilização do sistema, melhorando a experiência do usuário, este dicionário ajuda no dia a dia na utilização do sistema operacional, com a prática esses comandos são utilizados de forma natural, eventualmente sem precisar ficar checando um comando para cada problema encontrado, pois a prática leva à perfeição.
+Dominar os comandos básicos do Linux é essencial para a utilização do sistema, melhorando a experiência do usuário, este dicionário ajuda no dia a dia na utilização do sistema operacional, com a prática esses comandos começam a ser utilizados de forma natural, eventualmente sem precisar ficar checando um comando para cada problema encontrado, pois a prática leva à perfeição.
 
 
 </div>
