@@ -4,7 +4,7 @@
   
 ## **Este é um mini-dicionário com 30 comandos do Linux, utilizando linguagem Markdown**
 
-Com este dicionário, você irá conhecer alguns dos comandos mais usados para lidar com processos, gerenciamento de usuários e entender melhor o funcionamento do sistema. Se você já tem experiência ou está começando agora, aprender esses comandos irá fazer uma grande diferença. Eles ajudam a gerenciar servidores com mais eficiência, criar scripts e resolver problemas com mais facilidade.
+Com este dicionário, você irá conhecer alguns dos comandos mais usados para lidar com processos, gerenciamento de usuários e entender melhor o funcionamento do sistema. Se você já tem experiência na área ou está apenas começando, aprender e lembrar esses comandos irá fazer uma grande diferença. Eles ajudam a gerenciar servidores com mais eficiência, criar scripts e resolver problemas com mais facilidade.
 
 </div>
 <div align="center">
@@ -57,8 +57,7 @@ Com este dicionário, você irá conhecer alguns dos comandos mais usados para l
 | **clear**           | Limpa a tela do terminal                           | Limpar a tela poluída ou por conta de um comando incorreto                      |
 
 ## **Conclusão**
-Dominar os comandos básicos do Linux é essencial para a utilização do sistema, melhorando a experiência do usuário, este dicionário ajuda no dia a dia na utilização do sistema operacional, com a prática esses comandos começam a ser utilizados de forma natural, eventualmente sem precisar ficar checando um comando para cada problema encontrado, pois a prática leva à perfeição.
-
+Dominar os comandos básicos do Linux é essencial para a utilização e gerenciamento do sistema, melhorando a experiência do usuário. Este dicionário irá ajudar na utilização do sistema operacional, aumentando a eficácia e diminuindo o tempo gasto na resolução de problemas como um profissional de TI. Com a prática, esses comandos começam a ser utilizados de forma natural, sem precisar ficar checando um comando para cada problema encontrado. A prática leva à perfeição!
 
 </div>
 
